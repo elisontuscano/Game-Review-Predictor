@@ -8,7 +8,7 @@ For Video demo : [click here](https://youtu.be/DKhssm9wXPw)
 
 For Blog : [click here](http://elisontuscano.uta.cloud/cv/Blog.html)
 
-For Kaggle : [click here]()
+For Kaggle : [click here](https://www.kaggle.com/elisontuscano/kernel60995eaf33/edit)
 
 ***
 For using locally :<br>
